@@ -2,6 +2,6 @@
 /*/
 !.gitignore
 !README.md
-!/tmux/
-!/nvim/
+!tmux/
+!nvim/
 tmux/*.log
